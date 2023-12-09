@@ -61,7 +61,7 @@ def test():
 
 # test()
 
-f = open("../infiles/input-03a.txt", "r")
+f = open("../infiles/input-03.txt", "r")
 data = f.readlines()
 data = [line.strip() for line in data]
 
